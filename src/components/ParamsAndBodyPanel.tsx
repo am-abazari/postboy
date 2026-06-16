@@ -1,6 +1,6 @@
 "use client";
 
-import { ExtendedTabItem } from "../types";
+import { ExtendedTabItem } from "@/types";
 
 interface ParamsAndBodyPanelProps {
   currentTab: ExtendedTabItem;
